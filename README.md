@@ -10,7 +10,7 @@ It includes simple exercises with lists, functions, and basic OOP concepts.
 ## 📚 Topics Learned
 1. Working with lists and dictionaries  
 2. Writing basic functions  
-3. Mathematical operations (area, discount, temperature conversion, etc.)  
+3. Mathematical operations 
 4. Using conditional logic inside functions  
 5. Introduction to Object-Oriented Programming (classes and objects)  
 
